@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+
+}
+
+body{
+    background-color: gray;
+}
+
+#div1{
+    border: black 1px solid;
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    float: right;
+}
+
+
+#div2{
+    border: black 1px solid;
+    height: 200px;
+    width: 200px;
+    background-color: black;
+}
+
+
+
+#div3{
+    border: black 1px solid;
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    float: right;
+    margin-top: 550px; 
+}
+
+
+#div4{
+    border: black 1px solid;
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    margin-top: 550px; 
+    float: left;
+}
